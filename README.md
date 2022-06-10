@@ -13,9 +13,6 @@ const me: Developer = {
  }
  ```
 
-![](https://github.com/alessandrogelmi/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/alessandrogelmi/github-stats/blob/master/generated/languages.svg)
-
 <p>
   
   <a href="https://www.linkedin.com/in/luca-sala-580b51203/">
