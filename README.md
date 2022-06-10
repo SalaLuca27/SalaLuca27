@@ -16,7 +16,7 @@ const me: Developer = {
 
 <p>
   
-  <a href="https://www.linkedin.com/in/alessandro-gelmi/">
+  <a href="https://www.linkedin.com/in/luca-sala-580b51203/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:salaluca2000@gmail.com">
