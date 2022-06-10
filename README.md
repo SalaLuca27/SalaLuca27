@@ -24,3 +24,7 @@ const me: Developer = {
   
 </p>
 <br/>
+<h4 align="center">Visitors Counter</h4>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/SalaLuca27/count.svg" />
+</p>
