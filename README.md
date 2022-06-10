@@ -9,6 +9,7 @@ const me: Developer = {
   email: "salaluca2000@gmail.com",
   occupation: "Back-End Developer",
   stack: ["Javascript", "NodeJs", "AWS"]
+  api: ["GraphQL", "Rest"]
  }
  ```
 
