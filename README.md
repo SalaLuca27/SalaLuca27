@@ -4,7 +4,7 @@ const me: Developer = {
   first_name: "Luca",
   last_name: "Sala",
   birth_day: 27/03/2000,
-  age: 22,
+  age: 23,
   location: "Medolago(BG), Italy",
   email: "salaluca2000@gmail.com",
   occupation: "Back-End Developer",
