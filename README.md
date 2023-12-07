@@ -7,8 +7,8 @@ const me: Developer = {
   age: 23,
   location: "Medolago(BG), Italy",
   email: "salaluca2000@gmail.com",
-  occupation: "Back-End Developer",
-  stack: ["Javascript", "NodeJs", "AWS"],
+  occupation: "Full Stack Developer",
+  stack: ["Javascript", "NodeJs", "AWS", "React", "NestJS"],
   api: ["GraphQL", "Rest"]
  }
  ```
